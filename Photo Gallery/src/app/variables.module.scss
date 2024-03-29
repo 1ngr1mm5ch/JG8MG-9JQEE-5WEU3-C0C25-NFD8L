@@ -1,0 +1,14 @@
+$primary-color: #64ff00;
+$breakpointS: 576px;
+$breakpointM: 768px;
+$breakpointL: 992px;
+$breakpointXl: 1200px;
+
+
+:export {
+  primaryColor: $primary-color;
+  brekpointS: $breakpointS;
+  brekpointM: $breakpointM;
+  brekpointL: $breakpointL;
+  brekpointXl: $breakpointXl;
+}
