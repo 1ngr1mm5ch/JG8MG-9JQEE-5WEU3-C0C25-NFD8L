@@ -43,8 +43,8 @@ React
 NextJS 
 Sass with Scss
 
-Beacuse of the time pressure of one day I had to miss some stuff, which I would do usually. I would create for the item list which consists of different tiles to two
-templates. One part would be the tiles itself. They are holding the information for the tile to show up and to do it more type secure the tile should hold it on interface.
+Beacuse of the time pressure of one day I had to miss some stuff, which I would do usually. I would create for the item list which consists of different parts in two
+templates. One part would be the tiles itself. They are holding the information for the tile to show up and to do it more type secure the tile should use an interface.
 
 The second template would be the list of tiles. But since I did not use redux for this small application I decided to put everything in one template and although to repeat
 the code for the favorites again.
